@@ -46,6 +46,6 @@
     "prettier": "3.3.0",
     "storybook": "8.1.5",
     "typescript": "5.4.5",
-    "vite": "5.2.12"
+    "vite": "5.3.4"
   }
 }
