@@ -21,13 +21,13 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "8.3.0",
-    "@storybook/addon-interactions": "8.3.0",
-    "@storybook/addon-links": "8.3.0",
-    "@storybook/addon-onboarding": "8.3.0",
-    "@storybook/blocks": "8.3.0",
-    "@storybook/react": "8.3.0",
-    "@storybook/react-vite": "8.3.0",
+    "@storybook/addon-essentials": "8.3.2",
+    "@storybook/addon-interactions": "8.3.2",
+    "@storybook/addon-links": "8.3.2",
+    "@storybook/addon-onboarding": "8.3.2",
+    "@storybook/blocks": "8.3.2",
+    "@storybook/react": "8.3.2",
+    "@storybook/react-vite": "8.3.2",
     "@storybook/testing-library": "0.2.2",
     "@types/node": "22.5.2",
     "@types/react": "18.3.5",
@@ -44,7 +44,7 @@
     "postcss-preset-mantine": "1.15.0",
     "postcss-simple-vars": "7.0.1",
     "prettier": "3.3.3",
-    "storybook": "8.3.0",
+    "storybook": "8.3.2",
     "typescript": "5.5.4",
     "vite": "5.4.2"
   }
