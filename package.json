@@ -39,7 +39,7 @@
     "eslint-config-prettier": "9.1.0",
     "eslint-plugin-react-hooks": "4.6.2",
     "eslint-plugin-react-refresh": "0.4.11",
-    "eslint-plugin-storybook": "0.8.0",
+    "eslint-plugin-storybook": "0.9.0",
     "postcss": "8.4.43",
     "postcss-preset-mantine": "1.15.0",
     "postcss-simple-vars": "7.0.1",
